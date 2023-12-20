@@ -94,6 +94,7 @@ body {
 }
 
 .button-1 {
+    cursor: pointer;
     margin-top: 40px;
     width: 230px;
     height: 60px;
